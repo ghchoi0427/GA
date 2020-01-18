@@ -1,0 +1,7 @@
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\GeneticAlgorithm_basic\obj\Debug\GeneticAlgorithm_basic.csprojAssemblyReference.cache
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\GeneticAlgorithm_basic\obj\Debug\GeneticAlgorithm_basic.csproj.CoreCompileInputs.cache
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\GeneticAlgorithm_basic\bin\Debug\GeneticAlgorithm_basic.exe.config
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\GeneticAlgorithm_basic\bin\Debug\GeneticAlgorithm_basic.exe
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\GeneticAlgorithm_basic\bin\Debug\GeneticAlgorithm_basic.pdb
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\GeneticAlgorithm_basic\obj\Debug\GeneticAlgorithm_basic.exe
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\GeneticAlgorithm_basic\obj\Debug\GeneticAlgorithm_basic.pdb
